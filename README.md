@@ -38,7 +38,7 @@ To set up PDFBOT on your local machine, follow these steps.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/PDFBOT.git
+   git clone https://github.com/amMistic/PDFBOT.git
    cd PDFBOT
    ```
 
@@ -103,7 +103,7 @@ Example:
 
 1. **PDF Content Extraction**: Uses `pdfplumber` to extract text from uploaded PDFs.
 2. **Vectorization**: Uses `HuggingFaceEmbeddings` with `sentence-transformers/all-mpnet-base-v2` to create embedding vectors for PDF content.
-3. **Database Management**: Vectorized content is stored in a local ChromaDB instance for fast retrieval.
+3. **Database Management**: Vectorized content is stored in a local `ChromaDB` instance for fast retrieval.
 4. **LLM Integration**: Uses `ChatGroq` with `Llama3-8b-8192` model for generating responses.
 
 ## Contributing

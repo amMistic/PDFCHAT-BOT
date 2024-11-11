@@ -1,5 +1,11 @@
 # PDFBOT 🤖
 
+### Document used for demo
+![image](https://github.com/user-attachments/assets/e8c84af6-ba0d-4f16-baa2-c4de62d31db8)
+
+### Quick Snap of PDFBOT in action
+![image](https://github.com/user-attachments/assets/628cf568-8afa-4949-992a-f2686b829766)
+
 Welcome to **PDFBOT**! This project allows users to upload PDFs and interact with their content through a chatbot interface. It uses large language models to respond to user queries based on the PDF's content, providing an engaging and interactive way to access information within PDF documents.
 
 ## Table of Contents
